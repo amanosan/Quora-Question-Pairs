@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+data/train.db
+data/df_fe_without_preprocessing_training.csv
+data/final_features.csv
+data/nlp_features_train.csv
+.trash/
+.vscode/
+venv/
+mlruns/3/
