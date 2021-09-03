@@ -1,0 +1,4 @@
+artifact_location: file:///D:/Machine%20Learning/MACHINE%20LEARNING%20PROJECTS/Quora_Question_Pairs/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: logistic_regression_default
